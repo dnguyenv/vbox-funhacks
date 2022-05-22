@@ -52,7 +52,7 @@ Now you can SSH to your Guest VM that also opens door for using cool things by V
 
 ## Connect Visual Studio Code to your Guest VM
 
-Now you can use your Visual Studio Code to write code to your Guest VM via it's Remote-SSH extension, find it ![here](https://code.visualstudio.com/docs/remote/ssh)
+Now you can use your Visual Studio Code to write code to your Guest VM via it's Remote-SSH extension, find it [here](https://code.visualstudio.com/docs/remote/ssh)
 
 ![VC1](images/vc1.png)
 
