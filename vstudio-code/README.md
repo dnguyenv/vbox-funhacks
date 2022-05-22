@@ -54,6 +54,8 @@ Now you can SSH to your Guest VM that also opens door for using cool things by V
 
 Now you can use your Visual Studio Code to write code to your Guest VM via it's Remote-SSH extension, find it [here](https://code.visualstudio.com/docs/remote/ssh)
 
+From VSC >> View >> Command Palette ..
+
 ![VC1](images/vc1.png)
 
 ![VC2](images/vc2.png)
